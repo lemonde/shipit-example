@@ -2,11 +2,11 @@
 
 Simple example of Shipit usage.
 
-## Install
+## Run
 
 ```
-npm install plugin-name
-bower install plugin-name
+npm install
+npm start
 ```
 
 ## Usage
