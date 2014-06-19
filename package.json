@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Simple example of Shipit usage.",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/lemonde/shipit-example.git"
